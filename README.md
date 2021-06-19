@@ -21,15 +21,16 @@
   🔥 I’m currently learning: <strong>Node.JS, React, Firebase .</strong>
 </p>
 
-<details>
+<details align="center">
   <summary>:zap: Languages Used</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JONAS0607)](https://github.com/JONAS0607/github-readme-stats)
-
-<br/>
-
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JONAS0607&show_icons=true&locale=en&layout=compact" alt="JONAS0607" /></p>
+  </details>
+  
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JONAS0607&show_icons=true&locale=en" alt="JONAS0607" /></p>
 
 
 
 <p align="left">
-</p>
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=JONAS0607" alt="JONAS0607" /> </h3>
+</p>
