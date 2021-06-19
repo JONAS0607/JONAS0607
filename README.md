@@ -23,8 +23,8 @@
 
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONAS0607&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JONAS0607)](https://github.com/JONAS0607/github-readme-stats)
+
 <br/>
 
 
