@@ -9,7 +9,7 @@
   I'm currently studying Computer Engineering.
 </p>
 <p align="left">
-  🚀 I’m currently working: <strong>IT COORDINATOR on <a href="https://www.barbiero.com.br/">Barbiero</a></strong>
+  🚀 I’m currently working: <strong>IT COORDINATOR on <a href="https://www.barbiero.com.br/" target"_blank">Barbiero</a></strong>
 </p>
 
   <h2>👋 Skills:</h2>
