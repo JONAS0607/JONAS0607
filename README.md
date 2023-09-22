@@ -3,8 +3,7 @@
 <h3 align="center">Dev. Front and Back-end</h3>
 
 
-<!--<img src="https://media.giphy.com/media/E9cHYz8d9EBIK2eT8b/giphy.gif"  min-width="400px" max-width="400px" width="400px" align="centro" alt="Jonas Gif">-->
-
+<!--<img src="https://media.giphy.com/media/E9cHYz8d9EBIK2eT8b/giphy.gif"  min-width="400px" max-width="400px" width="400px" align="centro" alt="Jonas Gif">
 <p align="left">
   I'm currently studying Computer Engineering.
 </p>
@@ -48,3 +47,4 @@
 <p align="left">
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=JONAS0607" alt="JONAS0607" /> </h3>
 </p>
+-->
