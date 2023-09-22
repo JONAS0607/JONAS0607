@@ -9,7 +9,7 @@
 </p>
 <p align="left">
   🚀 I’m currently working: <strong>
-  <!--IT COORDINATOR on <a href="https://www.barbiero.com.br/" target"_blank">Barbiero</a>--></strong>
+IT COORDINATOR on <a href="https://www.barbiero.com.br/" target"_blank">Barbiero</a></strong>
 </p>
 
   <h2>👋 Skills:</h2>
